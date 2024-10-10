@@ -1,13 +1,15 @@
 # Python_calculator
 A simple calculator on python using tkinter
+![](image.png)
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [Installation](#installation)
-  - [Windows](#windows)
-  - [Linux](#linux)
-- [Release Notes](#release-notes)
+- [Python\_calculator](#python_calculator)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+    - [Windows](#windows)
+    - [Linux](#linux)
+  - [Release Notes](#release-notes)
 
 
 ## Installation
